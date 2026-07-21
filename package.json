@@ -1,0 +1,12 @@
+{
+      "name": "sistema-pagos",
+        "version": "1.0.0",
+          "description": "Sistema de gestion y pagos automaticos",
+            "main": "server.js",
+              "scripts": {
+                  "start": "node server.js"
+                    },
+                      "dependencies": {
+                          "express": "^4.19.2"
+                            }
+                            }
